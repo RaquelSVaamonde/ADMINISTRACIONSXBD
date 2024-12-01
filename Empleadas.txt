@@ -1,0 +1,4 @@
+DNI,Nombre,Apellidos,Puesto,Telefono,Correo_electronico,Direccion
+11223366A,Ana,Perez,Conductora,666666666,AnaP@correo.com,Rua del Percebe 13
+11122233B,Maria,Lopez,Secretaria,655555555,MariaL@correo.com,Travesia Fantasma 5
+11112222C,Elena,Gomez,Moza de almacen,677777777,ElenaG@correo.com,Avenida Inexistente 20
